@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/yevoonn/nasa-project/issues"
   },
-  "homepage": "https://github.com/yevoonn/nasa-project#readme"
+  "homepage": "https://github.com/yevoonn/nasa-project#readme",
+  "dependencies": {
+    "morgan": "^1.12.1"
+  }
 }
